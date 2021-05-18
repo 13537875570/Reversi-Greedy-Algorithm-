@@ -1,0 +1,7 @@
+Use python3 to run the codes. 
+In any of the .py file, you can change n0 to any even value with 6<=n0<=20(e.g. 6,8,10) to change the map size n0*n0 of Reversi. 
+For example, n0=8 prints a map of 8*8. The default value of n0=8. 
+
+Other files:
+Algorithm Project 2 by Wentao Fan.pdf: 
+Data of Reversi.xlsx: saves the data and graphs of the project
